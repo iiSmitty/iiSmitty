@@ -32,7 +32,9 @@
 <img src="https://i.imgur.com/LZu4AdR.png" alt="azure" width="80" height="80"/> </a> 
 <img src="https://i.imgur.com/NL0HRop.png" alt="mysql" width="80" height="80"/> </a> 
 <img src="https://i.imgur.com/NgtgbUq.png" alt="mssql" width="80" height="80"/> </a>  
-<img src="https://i.imgur.com/qVIcSpH.png" alt="vscode" width="80" height="80"/> </a> </p>
+<img src="https://i.imgur.com/qVIcSpH.png" alt="vscode" width="80" height="80"/> </a> 
+<img src="https://i.imgur.com/mQIDCpH.png" alt="intellij" width="80" height="80"/> </a> </p>
+
 
 
 
