@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;
 
-- 🌱 I’m currently learning **LDAP, MSSQL & PowerShell**
+- 🌱 I’m currently learning **Java, LDAP, MSSQL & PowerShell**
 
 - 📫 How to reach me **[email](mailto:andrez.smit@gmail.com)**
 
