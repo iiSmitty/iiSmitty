@@ -11,7 +11,7 @@
   <img alt="Andrew_Smith's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/76Hxoh9ceKX8rPsmZVITyU?si=ff0422e5ec284620">
-  <img alt="Music of the Harry Potter films" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img alt="Music of the Harry Potter films" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
 <p align="center"> <img alt="GIF" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif?raw=true" width="400" height="220"/>
