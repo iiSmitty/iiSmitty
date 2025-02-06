@@ -5,7 +5,7 @@
   <img alt="Andrew_Smith | Carbonite" width="26px" src="https://i.imgur.com/VX3ERjw.png" />
 </a>
 <a href="https://linkedin.com/in/andrezsmit">
-  <img alt="Andrew_Smith's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Andrew_Smith's LinkedIn" width="26px" src="https://i.imgur.com/EUZ0btH.png" />
 </a>
 <a href="https://open.spotify.com/playlist/76Hxoh9ceKX8rPsmZVITyU?si=ff0422e5ec284620">
   <img alt="Music of the Harry Potter films" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
