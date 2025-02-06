@@ -1,9 +1,6 @@
 <h1 align="center">🖥️ >Hello, World!_</h1>
 <h3 align="center">Ambassador For Christ. Passionate Technophile. Coffee Snob. Aichmomania.</h3>
 
-<a href="https://discord.gg/mph36Yv6PF">
- <p align="center"> <img alt="Carbonite Community Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://carbonite.co.za/index.php?members/andrew_smith.15597/">
   <img alt="Andrew_Smith | Carbonite" width="26px" src="https://i.imgur.com/VX3ERjw.png" />
 </a>
