@@ -1,5 +1,5 @@
 <h1 align="center">🖥️ >Hello, World!_</h1>
-<h3 align="center">Ambassador For Christ. Passionate Technophile. Coffee Snob. Aichmomania.</h3>
+<h3 align="center">Ambassador For Christ. Passionate Technophile. Coffee Snob.</h3>
 <p align="center">
   <a href="https://carbonite.co.za/index.php?members/andrew_smith.15597/"><img alt="Andrew_Smith | Carbonite" width="26px" src="https://i.imgur.com/VX3ERjw.png" /></a>&nbsp;
   <a href="https://linkedin.com/in/andrezsmit"><img alt="Andrew_Smith's LinkedIn" width="26px" src="https://i.imgur.com/EUZ0btH.png" /></a>&nbsp;
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C#, .NET Framework, HTML, CSS & JavaScript (vanilla)**
 
-- 📫 How to reach me **[email](mailto:andrez.smit@gmail.com)**
+- 📫 How to reach me **[email](mailto:info@andresmit.co.za)**
 
 - ⚡ Fun fact **HP, Apple, and Microsoft all began developing their computers in a garage.**
 
