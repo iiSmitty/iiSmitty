@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;
 
-- 🌱 I’m currently learning **Java, Azure AD, MSSQL & PowerShell**
+- 🌱 I’m currently learning **C#, .NET Framework, HTML, CSS & JavaScript (vanilla)**
 
 - 📫 How to reach me **[email](mailto:andrez.smit@gmail.com)**
 
