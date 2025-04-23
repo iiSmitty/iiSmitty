@@ -29,7 +29,7 @@ C:\WINDOWS> type README.TXT
   ▶ Location: Cape Town, South Africa
   ▶ Occupation: Interfront SOC Ltd
   ▶ Website: <a href="https://linktr.andresmit.co.za" target="_blank" style="color: #ffffff; text-decoration: underline;">https://linktr.ee/andresmit.co.za</a>
-  ▶ Social: <a href="https://linkedin.com/in/andresmit" target="_blank" style="color: #ffffff; text-decoration: underline;">in/andresmit</a>
+  ▶ Social: <a href="https://linkedin.com/in/andrezsmit" target="_blank" style="color: #ffffff; text-decoration: underline;">in/andresmit</a>
 
 ----------------------------------------
 :: SYSTEM CONFIGURATION (PROFILE.INI) ::
