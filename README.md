@@ -1,33 +1,50 @@
-<h1 align="center">🖥️ >Hello, World!_</h1>
-<h3 align="center">Ambassador For Christ. Passionate Technophile. Coffee Snob.</h3>
-<p align="center">
-  <a href="https://carbonite.co.za/index.php?members/andrew_smith.15597/"><img alt="Andrew_Smith | Carbonite" width="26px" src="https://i.imgur.com/VX3ERjw.png" /></a>&nbsp;
-  <a href="https://linkedin.com/in/andrezsmit"><img alt="Andrew_Smith's LinkedIn" width="26px" src="https://i.imgur.com/EUZ0btH.png" /></a>&nbsp;
-  <a href="https://open.spotify.com/playlist/76Hxoh9ceKX8rPsmZVITyU?si=ff0422e5ec284620"><img alt="Music of the Harry Potter films" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" /></a>
-</p>
+<!-- Simplified DOS/Command Prompt Theme -->
+<div align="center">
 
-<p align="center"> <img alt="GIF" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif?raw=true" width="400" height="220"/>
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.4; text-align: left; color: #c0c0c0; background-color: #000000; border: 1px solid #555; max-width: 700px; width: 90%; margin: auto; padding: 15px; white-space: pre-wrap; word-wrap: break-word;">
+Microsoft(R) Windows DOS
+(C)Copyright Microsoft Corp 1981-1999.
 
-&nbsp;&nbsp;
+C:\>ver
 
-- 🌱 I’m currently learning **C#, .NET Framework, HTML, CSS & JavaScript (vanilla)**
+iiSmitty v1.0
 
-- 📫 How to reach me **[email](mailto:info@andresmit.co.za)**
+C:\WINDOWS> dir /p README.TXT
 
-- ⚡ Fun fact **HP, Apple, and Microsoft all began developing their computers in a garage.**
+ Volume in drive C has no label.
+ Volume Serial Number is 1337-9501
 
-&nbsp;&nbsp;
+ Directory of C:\USERS\ANDRÉ
 
-<h3 align="middle">Languages and Tools:</h3>
-<p align="middle"> <img src="https://i.imgur.com/4dZYy5v.png" alt="java" width="80" height="80"/> </a> 
-<img src="https://i.imgur.com/TokWX2v.png" alt="powershell" width="80" height="80"/> </a> 
-<img src="https://i.imgur.com/LZu4AdR.png" alt="azure" width="80" height="80"/> </a> 
-<img src="https://i.imgur.com/NL0HRop.png" alt="mysql" width="80" height="80"/> </a> 
-<img src="https://i.imgur.com/NgtgbUq.png" alt="mssql" width="80" height="80"/> </a>  
-<img src="https://i.imgur.com/qVIcSpH.png" alt="vscode" width="80" height="80"/> </a> 
-<img src="https://i.imgur.com/mQIDCpH.png" alt="intellij" width="80" height="80"/> </a> </p>
+04-23-25  10:22a      ANDRÉ SMIT - README.TXT
 
+C:\WINDOWS> type README.TXT
 
+<span style="color: #00ff00;">>Hello, World!_</span>
+<span style="color: #00ffff;">Ambassador For Christ. Passionate Technophile. Coffee Snob.</span>
 
+----------------------------------------
+:: SYSTEM INFORMATION ::
+----------------------------------------
+  ▶ Location: Cape Town, South Africa
+  ▶ Occupation: Interfront SOC Ltd
+  ▶ Website: <a href="https://linktr.ee/andresmit.co.za" target="_blank" style="color: #ffffff; text-decoration: underline;">https://linktr.ee/andresmit.co.za</a>
+  ▶ Social: <a href="https://linkedin.com/in/andresmit" target="_blank" style="color: #ffffff; text-decoration: underline;">in/andresmit</a>
 
-<p align="center"> <img alt="Win95" src="https://www.bleepstatic.com/content/hl-images/2021/03/27/windows-95-header.jpg" width="968" height="512"/>
+----------------------------------------
+:: SYSTEM CONFIGURATION (PROFILE.INI) ::
+----------------------------------------
+[Learning Modules]
+ ActivelyLoading=C#, .NET Framework
+ StandbyLoading=HTML, CSS, JavaScript
+
+[Communication Links]
+ PrimaryContact=Email (<a href="mailto:info@andresmit.co.za" style="color: #ffffff; text-decoration: underline;">info@andresmit.co.za</a>)
+
+[System Notes]
+ DOS_Remark=Fact Recorded: HP, Apple, MS began dev in garages.
+
+C:\WINDOWS> _
+</pre>
+
+</div>
